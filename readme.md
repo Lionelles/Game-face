@@ -1,2 +1,2 @@
-This is a gamechanger project repositor
-This is an application for managing payment on an ios device
+This is a gamechanger project repository
+This is an application for managing payments on ios devices
